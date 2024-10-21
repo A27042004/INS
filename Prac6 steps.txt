@@ -82,7 +82,9 @@ i. Enter a name and description for the rule, and then select Finish.
 The rule appears in the Inbound Rules window.
 j. Ensure that the rule is enabled.
 IPSEC is now configured on the machine.
+
 Step7: Repeat all the steps above on all the machines that host the Historian server and/or its components/clients.
+
 Step8: To verify that the IPSEC cryptography is used:
 a. Ensure that the Historian server is running.
 b. Ensure that the collectors are connected to the Historian server, and that the collectors are running.
